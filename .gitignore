@@ -27,3 +27,6 @@ Thumbs.db
 *.dot
 process_tree_visualization/
 process_models/
+
+# Large dataset file
+aruba.csv
